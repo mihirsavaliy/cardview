@@ -48,7 +48,6 @@ root.render(
                 <Route path='*' element={<Error/>}/>
                 <Route path='/EmpView' element={<EmpView/>} />
                 <Route path='/' element={<Products/>}/>
-                <Route path='ViewDetails' element={<ViewDetails/>}/>
             </Routes>
         </BrowserRouter> */}
         {/* <CRUD/> */}
